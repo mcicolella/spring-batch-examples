@@ -27,7 +27,7 @@ public class DemoJob {
 	}
 
 	@Bean
-	private Step firstStep() {
+	public Step firstStep() {
 		return sbf.get("first step").tasklet(firstTask()).build();
 	}
 
