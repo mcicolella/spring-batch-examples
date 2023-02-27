@@ -1,5 +1,11 @@
 # Spring Batch examples
 
+<p>
+  <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://www.patreon.com/emmecilab"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25></a>
+  
 * [Corso di Spring Batch #1: introduzione](https://www.emmecilab.net/blog/corso-spring-batch-1-introduzione) -  [:movie_camera:](https://youtu.be/zAroNue1l2c)
 * Corso di Spring Batch #2: un esempio di base -  [:movie_camera:](https://youtu.be/LFQaeUDdrnY)
 * Corso di Spring Batch #3: da CSV a database MySQL -  [:movie_camera:](https://youtu.be/gABIFdk5tUc)
